@@ -50,7 +50,7 @@ Some of the questions explored include:
 
 ## Dashboard Preview
 
-![Chinook Music Store Analysis Dashboard](Dashboard.png)
+![Chinook Music Store Analysis Dashboard](Chinook-Dashboard.png)
 
 
 ## Author
