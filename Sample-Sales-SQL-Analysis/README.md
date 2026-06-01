@@ -54,7 +54,10 @@ Throughout this project, the following SQL skills were applied:
 - SQL Server
 - SQL Server Management Studio (SSMS)
 
-## Dashboard
+
+## Dashboard Preview
+
+![Sample Sales Analysis Dashboard](Dashboard.png)
 
 ## Author
 
